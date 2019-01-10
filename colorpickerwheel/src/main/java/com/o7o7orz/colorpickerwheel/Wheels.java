@@ -24,7 +24,7 @@ import java.lang.reflect.Method;
 import java.util.HashMap;
 import java.util.Map;
 
-class Wheels {
+public class Wheels {
 
     /*
     viewColor is the view you want to change part of it's color
