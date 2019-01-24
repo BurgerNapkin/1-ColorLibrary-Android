@@ -9,6 +9,6 @@
     		}
 		}
 
-	implementation 'com.github.BurgerNapkin:ColorLibrary-Android:v1.0.0'
+	implementation 'com.github.BurgerNapkin:1-ColorLibrary-Android:v1.0.0'
 
 
